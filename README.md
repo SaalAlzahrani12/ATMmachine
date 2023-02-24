@@ -1,4 +1,4 @@
-# ATMmachine
+# ATM machine
 Automated teller machine for withdrawals, deposits and transfers
 w to withdraw
 d to deposit
