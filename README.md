@@ -1,4 +1,5 @@
 # ATM machine
+سعد معيض الزهراني شعبة 7
 Automated teller machine for withdrawals, deposits and transfers
 w to withdraw
 d to deposit
